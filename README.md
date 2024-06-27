@@ -11,3 +11,5 @@ Matplotlib and Seaborn: Creating visualizations during exploratory data analysis
 NumPy and Pandas: Data manipulation and preprocessing.
 
 NLTK: Text preprocessing for natural language data.
+
+Please refer to Readme.docx for running the python file.
